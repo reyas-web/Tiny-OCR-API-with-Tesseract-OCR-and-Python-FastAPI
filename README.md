@@ -31,7 +31,7 @@ Setup using the terminal inside the project directory:
 
 ## __Setup with Docker:__
 
-You need to have docker installed within your system.
+_You need to have docker installed within your system._
 
 Setup using the terminal inside the project directory:
 
